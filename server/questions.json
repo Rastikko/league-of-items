@@ -1,0 +1,17 @@
+[
+  {
+    "ref": "corki",
+    "name": "Corki",
+    "responses": [
+      {
+        "ref": "blade-ruined-king",
+        "name": "Blade of the Ruined King"
+      },
+      {
+        "ref": "hextech-gunblade",
+        "name": "Hextech Gunblade"
+      }
+    ],
+    "rightResponse": "blade-ruined-king"
+  }
+]

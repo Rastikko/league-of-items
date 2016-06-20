@@ -1,0 +1,13 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      C:\Program Files\nodejs\node.exe C:\Users\Rastikko\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.0.2
+[debug] Platform:     win32
+[debug] Node Version: v6.2.2
+[debug] Time:         Sun Jun 19 2016 15:38:47 GMT-0700 (Pacific Daylight Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[warn] !  No Firebase project directory detected. Serving static content from C:\Users\Rastikko\Projects\firebase-game\client\src
+[info] 
+[info] Server listening at: http://localhost:5000

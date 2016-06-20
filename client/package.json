@@ -1,0 +1,11 @@
+{
+  "name": "league-of-items-client",
+  "version": "1.0.0",
+  "description": "League of Items client code",
+  "main": "index.js",
+  "scripts": {
+    "build": "cp src dist"
+  },
+  "author": "Johan de Bruin",
+  "license": "ISC"
+}

@@ -1,0 +1,19 @@
+#questionTemplate {
+  display: none;
+}
+
+#question .incorrect-messsage {
+  display: none;
+}
+
+#question.incorrect {
+  display: block;
+}
+
+#question .champion-name {
+  display: inline;
+}
+
+#question .champion-image {
+
+}
